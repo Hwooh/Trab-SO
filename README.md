@@ -1,2 +1,2 @@
 # Trab-SO
-Trabalho de SO 
+Trabalho de SO - Filosofos
