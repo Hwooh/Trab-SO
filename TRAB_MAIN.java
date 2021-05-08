@@ -5,6 +5,7 @@ import java.util.logging.Logger;
 
 /**
  * @author mpiva
+ Grupo: Eduardo Neves, Pablo Relvas, Gabriel Macario e Esther Siqueira
  */
 
 public class TRAB_MAIN {
